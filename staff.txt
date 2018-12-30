@@ -1,0 +1,31 @@
+3
+1
+Thu Huong
+1999
+Quang Tri
+SCE
+2.5
+5
+730
+Bachelor
+20
+2
+Hoang Quan
+1999
+Da Nang
+CSE
+1.6
+6
+740
+Chief
+24
+1
+Minh Quan
+1999
+Da Nang
+CSE
+1.9
+7
+730
+Doctor
+30
